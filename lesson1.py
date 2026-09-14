@@ -2,3 +2,4 @@
 
 print("Python Freelance Project")
 print("Gitを勉強しています")
+print("Gitの練習をしています")
