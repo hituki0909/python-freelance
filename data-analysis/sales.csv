@@ -1,0 +1,10 @@
+date,product,category,price,quantity
+2026-01-05,Keyboard,PC,5000,2
+2026-01-10,Mouse,PC,3000,3
+2026-01-15,Monitor,PC,25000,1
+2026-02-03,Keyboard,PC,5000,4
+2026-02-08,USB Cable,Accessory,1200,5
+2026-02-14,Mouse,PC,3000,2
+2026-03-02,Monitor,PC,25000,2
+2026-03-10,USB Cable,Accessory,1200,10
+2026-03-15,Keyboard,PC,5000,3
