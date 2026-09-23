@@ -1,0 +1,15 @@
+2026-09-20 09:00:01 INFO Login success user=admin
+2026-09-20 09:01:15 WARNING Login failed user=test
+2026-09-20 09:01:30 WARNING Login failed user=test
+2026-09-20 09:01:45 WARNING Login failed user=test
+2026-09-20 09:02:10 INFO Logout user=admin
+2026-09-20 09:03:10 ERROR Database connection failed
+2026-09-20 09:04:20 INFO Login success user=user01
+2026-09-20 09:05:15 WARNING Login failed user=guest
+2026-09-20 09:06:30 ERROR Server connection timeout
+2026-09-20 09:07:00 INFO Logout user=user01
+2026-09-20 10:00:00 WARNING Login failed user=demo
+2026-09-20 11:00:00 WARNING Login failed user=demo
+2026-09-20 12:00:00 WARNING Login failed user=demo
+2026-09-20 12:00:20 WARNING Login failed user=demo
+2026-09-20 12:00:40 WARNING Login failed user=demo
